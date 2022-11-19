@@ -1,5 +1,5 @@
-- 👋 Hi, I’m @81w4
-- 👀 I’m interested in discord Bots and requests in python
+- 👋 Hi, I’m @81w_4
+- 👀 I’m interested in botnets and backdoors
 - 🌱 I’m currently learning about botnets
 - 💞️ I’m looking to collaborate on discord
 - 📫 How to reach me : Discord : 81w_4#8888
